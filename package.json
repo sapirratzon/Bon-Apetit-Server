@@ -1,0 +1,20 @@
+{
+  "name": "bon-apetit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mongodb": "^3.6.3"
+  },
+  "dependencies": {
+    "argon2": "^0.27.0",
+    "mongoose": "^5.10.17",
+    "validator": "^13.1.17"
+  }
+}
